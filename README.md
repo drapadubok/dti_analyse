@@ -1,4 +1,4 @@
-
+Scripts include some analyses that I've ran and also some tream of thought, so if some idea expressed here was interesting to you - best thing you can do is ask me directly, and I will explain which scripts did what.
 
 1) Preprocess DTI data with FSL routines
 ./dti_prepro.sh : when you run this one, you will get all the preprocessing done, typically folder with output will look like screen1.png
